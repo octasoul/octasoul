@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Sourav Biswas</h1>
-<h3 align="center">A Noob Android ROM</h3>
+<h3 align="center">A Noob Android ROM Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Octasoul&label=Profile%20views&color=0e75b6&style=flat" />
