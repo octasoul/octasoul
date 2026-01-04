@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 - 🔧 Android ROM Maintainer
-- 📱 Device: **Redmi Note 9 Pro (miatoll)**
+- 📱 Device: **Poco M2 Pro (miatoll)**
 - 🌱 Learning: **Kernel, SELinux, HALs**
 - 💬 Ask me about **AOSP builds, DT/VT, kernel issues**
 
